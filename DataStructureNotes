@@ -1,0 +1,6 @@
+/*
+ Abstraction data type - abstraction of a data strcuture which provides only the 
+ interface to which a DS must adhere to. 
+
+
+*/ 
